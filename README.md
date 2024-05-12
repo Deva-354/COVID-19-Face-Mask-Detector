@@ -11,3 +11,7 @@ Imported files used and their purpose:
 5. opencv – for machine learning and image processing
 6. matplotlib – application programming interface using GUI
 7. scipy – to visualize data and solve mathematical and scientific operations
+
+Snapshot of project:
+<img width="162" alt="Screenshot 2024-01-18 130254" src="https://github.com/Deva-354/COVID-19-Face-Mask-Detector/assets/130522847/4af6836f-b347-41ad-ad9b-0dad848804d5">
+
